@@ -11,6 +11,9 @@ A global database for known Discord trolls, idiots and leecher snitches in order
 * Enable the Widget to create ONE invite channel (the rules channel).
 * (optional) You can use I2P/Tor to route the Discord traffic through  it but it's not necessary since the Discord traffic from and to the server is encrypted and protected against MITM. Discord itself uses TLS for text chat, etc and DTLS for voice over browser, xsalsa20 for voice over desktop app.
 
+## Why not use a pre-made or self-hosted Bot to blacklist?
+* Simple, no transparency. No control or no options to undo something once they are in a hidden database. The bots itself might also leak/expose or even track you or your user/channel/server.
+
 
 ## To-Do
 
