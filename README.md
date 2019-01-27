@@ -6,7 +6,7 @@ A global database for Discord trolls, idiots and leecher snitches in order to ke
 * Use [DiscordCrypt](https://gitlab.com/leogx9r/DiscordCrypt) (or alternative [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - **THEY ARE NOT COMPATIBLE TO EACH OTHER**) to get end-to-end encryption!
 * In general use as less as possible Bots (they can expose you or people can search how to bypass them), use [webhooks](https://birdie0.github.io/discord-webhooks-guide/services/ifttt.html) instead
 * Use [Rules Bot](https://discordbots.org/bot/rulesbot) in order to keep bots out and to verrify everyone read the rules before they see any channel
-* Turn off the Discord "Explicit Content Filter" because this also sends statistics etc back
+* Turn off the Discord "[Explicit Content Filter](https://blog.discordapp.com/discord-safety-boost-2d592ea3b14a?gi=af380bd8186a)" because this also sends statistics etc back
 * Set the verification level to at least 5 Minutes (or higher) - Most people won't join you if you require a phone verification number, and it also exposes your number to Discord itself.
 * Don't use any [Server Integrations](https://discordapp.com/streamkit) because this is tracking it's users for statistics etc.
 * Enable the Widget to create ONE invite channel (the rules channel).
@@ -14,12 +14,13 @@ A global database for Discord trolls, idiots and leecher snitches in order to ke
 
 
 ## Why not use a pre-made or self-hosted Bot to blacklist?
-* Simple, no transparency. No control or no options to undo something once they are in a hidden database. The bots itself might also leak/expose or even track you or your user/channel/server.
+* Simple, no transparency. 
+* No control or no options to undo something once they are in a hidden database. The bots itself might leak/expose or even track you and your user/channel/server.
 
 
 ## To-Do
 
 - [ ] Finish the webhook (WIP)
-- [ ] Add an auto-update mechanism e.g. re-check the database every 24-hours 
+- [ ] Add an auto-update mechanism e.g. re-check the database every 12/24-hours 
 - [ ] Maybe a whitelist only mode?
 - [ ] Get some maintainers to help this little project 
