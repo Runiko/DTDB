@@ -19,7 +19,7 @@ A global database for Discord trolls, idiots and leecher snitches in order to ke
 
 ## To-Do
 
-[ ] Finish the webhook
-[ ] Add an auto-update mechanism e.g. re-check the database every 24-hours 
-[ ] Maybe a whitelist only mode?
-[ ] Get some maintainers to help this little project 
+- [ ] Finish the webhook (WIP)
+- [ ] Add an auto-update mechanism e.g. re-check the database every 24-hours 
+- [ ] Maybe a whitelist only mode?
+- [ ] Get some maintainers to help this little project 
