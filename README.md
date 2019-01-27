@@ -16,6 +16,7 @@ A global database for Discord trolls, idiots and leecher snitches in order to ke
 ## Why not use a pre-made or self-hosted Bot to blacklist?
 * Simple, no transparency. 
 * No control or no options to undo something once they are in a hidden database. The bots itself might leak/expose or even track you and your user/channel/server.
+* Bots like [Gaius Bot](https://gaiusbot.me) want money for _pro_ functions.
 
 
 ## To-Do
