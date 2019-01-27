@@ -13,6 +13,10 @@ A global database for Discord trolls, idiots and leecher snitches in order to ke
 * (optional) You can use I2P/Tor to route the Discord traffic through  it but it's not necessary since the Discord traffic from and to the server is encrypted and protected against MITM. Discord itself uses TLS for text chat, etc and DTLS for voice over browser, xsalsa20 for voice over desktop app.
 
 
+## Why not ban the Discord users by his name?
+* Discord usernames can be changed and they are not unique, only their ID is. In order to reveal the users real-ID you have to enable [Developer Mode](https://discordia.me/developer-mode) and click on "Copy ID".
+
+
 ## Why not use a pre-made or self-hosted Bot to blacklist?
 * Simple, no transparency. 
 * No control or no options to undo something once they are in a hidden database. The bots itself might leak/expose or even track you and your user/channel/server.
