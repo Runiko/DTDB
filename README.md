@@ -26,6 +26,10 @@ A global database for Discord trolls, idiots and leecher snitches in order to ke
 ## To-Do
 
 - [ ] Finish the webhook (WIP)
-- [ ] Add an auto-update mechanism e.g. re-check the database every 12/24-hours 
+- [ ] Add an auto-update mechanism e.g. re-check the database every 12/24 hours 
 - [ ] Maybe a whitelist only mode?
 - [ ] Get some maintainers to help this little project 
+- [ ] Name blacklist?
+
+Reference:
+- [The-Big-Username-Blacklist (github)](https://github.com/marteinn/The-Big-Username-Blacklist)
