@@ -1,4 +1,4 @@
-# DTDB
+# Discord Troll Database (short: DTDB)
 A global database for known Discord trolls, idiots and leecher snitches in order to keep them out of your server
 
 
