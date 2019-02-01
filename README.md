@@ -33,3 +33,4 @@ A global database for Discord trolls, idiots and leecher snitches in order to ke
 
 Reference:
 - [The-Big-Username-Blacklist (github)](https://github.com/marteinn/The-Big-Username-Blacklist)
+- [Discord Server Limits](https://discordia.me/server-limits)
