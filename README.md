@@ -25,12 +25,15 @@ A global database for Discord trolls, idiots and leecher snitches in order to ke
 
 ## To-Do
 
-- [ ] Finish the webhook (WIP)
-- [ ] Add an auto-update mechanism e.g. re-check the database every 12/24 hours 
+- [x] Finish the webhook (WIP) and forward it to the bot which then bans the user automatically 
+- [x] Add an auto-update mechanism e.g. re-check the database every 12/24 hours 
 - [ ] Maybe a whitelist only mode?
 - [ ] Get some maintainers to help this little project 
-- [ ] Name blacklist?
+- [ ] Name blacklist only?
 
-Reference:
+
+## References
 - [The-Big-Username-Blacklist (github)](https://github.com/marteinn/The-Big-Username-Blacklist)
 - [Discord Server Limits](https://discordia.me/server-limits)
+- [What does Discord collect about you](https://spyware.neocities.org/articles/discord.html)
+- [Powerful script to delete full Discord message history](https://github.com/c-edw/discord-delete)
