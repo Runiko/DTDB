@@ -11,6 +11,7 @@ A global database for Discord trolls, idiots and leecher snitches in order to ke
 * Don't use any [Server Integrations](https://discordapp.com/streamkit) because this is tracking it's users for statistics etc.
 * Enable the Widget to create ONE invite channel (the rules channel).
 * (optional) You can use I2P/Tor to route the Discord traffic through  it but it's not necessary since the Discord traffic from and to the server is encrypted and protected against MITM. Discord itself uses TLS for text chat, etc and DTLS for voice over browser, xsalsa20 for voice over desktop app.
+* (_optional_) Install (plugins](https://betterdocs.us/plugins/) in order to make your Discord life a little bit easier. [Do not track](https://betterdocs.us/plugins/do-not-track/) for example stops Discord tracking (debugging).
 
 
 ## Why not ban the Discord users by his name?
